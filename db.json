@@ -1,0 +1,40 @@
+[
+  {
+    "1": {
+      "id": "1",
+      "name": "Darul Hana Bridge",
+      "type": "Landscape",
+      "description": "The city of Kuching on the island of Borneo is divided by the Sarawak river. To connect the City North with the City South, the “Harmony Bridge” was erected. It is designed in reference to the idea of Yin and Yang: an S-shaped, curved bridge with two masts, inclined in opposite directions, symbolizes the balance of cultures living together.",
+      "image": "assets/img/sbridge.png",
+      "link": "https://www.constructionplusasia.com/my/darul-hana-bridge/",
+      "location": "https://goo.gl/maps/XawaiZziGEbBE6cW7"
+    },
+    "2": {
+      "id": "2",
+      "name": "Bako National Park",
+      "type": "Nature",
+      "description": "The city of Kuching on the island of Borneo is divided by the Sarawak river. To connect the City North with the City South, the “Harmony Bridge” was erected. It is designed in reference to the idea of Yin and Yang: an S-shaped, curved bridge with two masts, inclined in opposite directions, symbolizes the balance of cultures living together.",
+      "image": "assets/img/sbridge.png",
+      "link": "https://www.constructionplusasia.com/my/darul-hana-bridge/",
+      "location": "https://goo.gl/maps/XawaiZziGEbBE6cW7"
+    },
+    "3": {
+      "id": "3",
+      "name": "Borneo Cultures Museum",
+      "type": "Historical",
+      "description": "The Borneo Cultures Museum is a modern five-story building with a distinctive architectural design that reflects Sarawak’s unique traditional crafts and rich cultural heritage. It aims to become a lively place for social and cultural exchange.",
+      "image": "assets/img/sbridge.png",
+      "link": "https://museum.sarawak.gov.my/page-0-209-169-Borneo-Cultures-Museum.html",
+      "location": "https://g.page/borneo-cultures-museum?share"
+    },
+    "4": {
+      "id": "4",
+      "name": "Fairy Cave",
+      "type": "Nature",
+      "description": "The Borneo Cultures Museum is a modern five-story building with a distinctive architectural design that reflects Sarawak’s unique traditional crafts and rich cultural heritage. It aims to become a lively place for social and cultural exchange.",
+      "image": "assets/img/sbridge.png",
+      "link": "https://museum.sarawak.gov.my/page-0-209-169-Borneo-Cultures-Museum.html",
+      "location": "https://g.page/borneo-cultures-museum?share"
+    }
+  }
+]
