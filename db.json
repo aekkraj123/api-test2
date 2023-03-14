@@ -1,4 +1,5 @@
-[
+{
+"attraction": [
     {
       "id": "1",
       "name": "Darul Hana Bridge",
@@ -36,3 +37,4 @@
       "location": "https://g.page/borneo-cultures-museum?share"
     }
 ]
+}
